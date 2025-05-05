@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<div align="center">
+  <a href="https://discord.com/users/303150973034168321" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/303150973034168321?borderRadius=5px&animated=true&bg=273849&showDisplayName=true" alt="Discord Status">
+  </a>
+</div>
+
 <!--
 **TheG3cko/theg3cko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
