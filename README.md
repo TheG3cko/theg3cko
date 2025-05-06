@@ -3,32 +3,34 @@
 This is my profile. It ain't much but it's honest work.
 
 
-<h3 align="center" style="font-weight: bold;">Stuff i know about</h3>
+<h3 align="center" style="font-weight: bold;">Stuff I know about</h3>
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?titles=true&perline=6&i=git,proxmox,davinci,obs,blender,debian">
+  <img src="https://go-skill-icons.vercel.app/api/icons?titles=true&perline=6&i=debian,ubuntu,proxmox,davinci,obs,blender">
 </div>
 
 
-<h3 align="center" style="font-weight: bold;">DevOps Tools i use</h3>
+<h3 align="center" style="font-weight: bold;">DevOps Tools I use</h3>
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?titless=true&perline=7&i=git,kubernetes,docker,argocd,helm">
+  <img src="https://go-skill-icons.vercel.app/api/icons?titless=true&perline=7&i=git,kubernetes,docker,argocd,helm,terraform">
 </div>
 
 
-<div align="center">
-
-</div>
 <h3 align="center" style="font-weight: bold;">Languages</h3>
 <div align="center">
-  <p>I write bad code, but i try to learn.</p>
+  <p><i>I write bad code, but i try to learn.</i></p>
   <img src="https://go-skill-icons.vercel.app/api/icons?titless=true&perline=7&i=golang,python">
+</div>
+
+<h3 align="center" style="font-weight: bold;">IDE's</h3>
+<div align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?titless=true&perline=7&i=pycharm,goland,fleet,vscode">
 </div>
 
 ---
 
 <div align="center">
   <a href="https://discord.com/users/303150973034168321" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/303150973034168321?borderRadius=5px&animated=true&bg=273849&showDisplayName=true" alt="Discord Status">
+    <img src="https://lanyard.cnrad.dev/api/303150973034168321?borderRadius=15px&hideActivity=true&animated=true&borderRadius=10px&bg=24292e&showDisplayName=false" alt="Discord Status">
   </a>
 </div>
 
