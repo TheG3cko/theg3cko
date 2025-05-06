@@ -29,9 +29,8 @@ This is my profile. It ain't much but it's honest work.
 ---
 
 <div align="center">
-  <a href="https://discord.com/users/303150973034168321" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/303150973034168321?borderRadius=15px&hideActivity=true&animated=true&borderRadius=10px&bg=24292e&showDisplayName=false" alt="Discord Status">
-  </a>
+  <a href="https://discord.com/users/303150973034168321">
+    <img src="https://lanyard.cnrad.dev/api/303150973034168321?hideActivity=true&bg=2e3038&borderRadius=13px&animatedDecoration=true&hideDecoration=true" /></a>
 </div>
 
 > 🧠 *Learn by doing. Break stuff. Fix it. Repeat.*
