@@ -17,7 +17,7 @@ This is my profile. It ain't much but it's honest work.
 
 <h3 align="center" style="font-weight: bold;">Languages</h3>
 <div align="center">
-  <p><i>I write bad code, but i try to learn.</i></p>
+  <p><i>I write bad code, but I try to learn.</i></p>
   <img src="https://go-skill-icons.vercel.app/api/icons?titles=true&perline=7&i=golang,python">
 </div>
 
