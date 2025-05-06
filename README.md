@@ -21,7 +21,7 @@ This is my profile. It ain't much but it's honest work.
   <img src="https://go-skill-icons.vercel.app/api/icons?titles=true&perline=7&i=golang,python">
 </div>
 
-<h3 align="center" style="font-weight: bold;">IDE's</h3>
+<h3 align="center" style="font-weight: bold;">IDEs</h3>
 <div align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?titles=true&perline=7&i=pycharm,goland,fleet,vscode">
 </div>
