@@ -11,19 +11,19 @@ This is my profile. It ain't much but it's honest work.
 
 <h3 align="center" style="font-weight: bold;">DevOps Tools I use</h3>
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?titless=true&perline=7&i=git,kubernetes,docker,argocd,helm,terraform">
+  <img src="https://go-skill-icons.vercel.app/api/icons?titles=true&perline=7&i=git,kubernetes,docker,argocd,helm,terraform">
 </div>
 
 
 <h3 align="center" style="font-weight: bold;">Languages</h3>
 <div align="center">
   <p><i>I write bad code, but i try to learn.</i></p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?titless=true&perline=7&i=golang,python">
+  <img src="https://go-skill-icons.vercel.app/api/icons?titles=true&perline=7&i=golang,python">
 </div>
 
 <h3 align="center" style="font-weight: bold;">IDE's</h3>
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?titless=true&perline=7&i=pycharm,goland,fleet,vscode">
+  <img src="https://go-skill-icons.vercel.app/api/icons?titles=true&perline=7&i=pycharm,goland,fleet,vscode">
 </div>
 
 ---
