@@ -23,7 +23,7 @@ This is my profile. It ain't much but it's honest work.
 
 <h3 align="center" style="font-weight: bold;">IDEs</h3>
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?titles=true&perline=7&i=pycharm,goland,fleet,vscode">
+  <img src="https://go-skill-icons.vercel.app/api/icons?titles=true&perline=7&i=pycharm,goland,vscode">
 </div>
 
 ---
